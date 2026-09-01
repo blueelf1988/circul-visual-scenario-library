@@ -1,6 +1,6 @@
 # AIGC生产指南（欧美真人感 / 高级脸 / 质感 / 光线）
 
-> 本文档为CIRCUL超级视觉场景库生成器的AIGC生产参考，所有场景生成、AIGC素材生产必须严格遵守本文档中的视觉规范。
+> 本文档为Smart Ring超级视觉场景库生成器的AIGC生产参考，所有场景生成、AIGC素材生产必须严格遵守本文档中的视觉规范。
 
 ---
 
@@ -74,7 +74,7 @@
 | 肤色 | 自然肤色不均、有红晕、非完美均匀 |
 | 毛发 | 可见汗毛、眉毛纹理、头发丝缕分明 |
 
-### 3.2 产品质感（CIRCUL 3戒指）
+### 3.2 产品质感（智能戒指）
 
 | 维度 | 标准 |
 |------|------|
@@ -222,12 +222,12 @@ distorted ring, text, watermark, logo
 ### 7.2 命名规范
 
 ```
-CIRCUL3_[场景编号]_[类型]_[比例]_[序号].jpg
+SMART_RING_[场景编号]_[类型]_[比例]_[序号].jpg
 
 示例：
-CIRCUL3_3.1_hero_16x9_01.jpg （红酒晚餐场景Hero主视觉）
-CIRCUL3_9.1_module_1x1_02.jpg （HRV生物反馈场景模块配图）
-CIRCUL3_product_3x4_01.jpg （产品精修图）
+SMART_RING_3.1_hero_16x9_01.jpg （红酒晚餐场景Hero主视觉）
+SMART_RING_9.1_module_1x1_02.jpg （HRV生物反馈场景模块配图）
+SMART_RING_product_3x4_01.jpg （产品精修图）
 ```
 
 ### 7.3 文件格式
