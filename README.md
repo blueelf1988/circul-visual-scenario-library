@@ -1,4 +1,4 @@
-# CIRCUL 超级视觉场景库生成器
+# Smart Ring 超级视觉场景库生成器
 
 > 将产品功能/检测指标自动映射到中产阶级生活方式场景，生成高视觉表现力的营销场景库。严格遵守产品真实功能边界，输出欧美真人感、高级脸、电影级光线的AIGC生产指南。
 
@@ -22,16 +22,16 @@
 ## 📁 目录结构
 
 ```
-circul-visual-scenario-library/
+smart-ring-visual-scenario-library/
 ├── README.md                           # 本文件
 ├── SKILL.md                            # Skill核心工作流程
 ├── demo/
-│   └── example-scenario-library.md     # 完整生成示例（基于CIRCUL 3）
+│   └── example-scenario-library.md     # 完整生成示例（基于智能戒指）
 └── references/
     ├── function_boundary_redlines.md   # 功能边界审查完整版
     ├── aigc_production_guide.md        # AIGC生产指南（欧美真人感）
     ├── scenario_taxonomy.md            # 场景分类体系与TOP10方法论
-    └── scenario_examples.md            # CIRCUL 3完整场景库示例（40场景）
+    └── scenario_examples.md            # 智能戒指完整场景库示例（40场景）
 ```
 
 ## 🚀 使用方法
@@ -124,8 +124,8 @@ circul-visual-scenario-library/
 ## 📝 示例
 
 完整示例请查看：
-- [`demo/example-scenario-library.md`](demo/example-scenario-library.md) — 基于CIRCUL 3的完整场景库生成示例
-- [`references/scenario_examples.md`](references/scenario_examples.md) — CIRCUL 3完整40场景库
+- [`demo/example-scenario-library.md`](demo/example-scenario-library.md) — 基于智能戒指的完整场景库生成示例
+- [`references/scenario_examples.md`](references/scenario_examples.md) — 智能戒指完整40场景库
 
 ### 单场景示例（红酒晚餐约会）
 
@@ -153,4 +153,4 @@ MIT License
 
 ## 📮 联系方式
 
-项目主页：[GitHub Repository](https://github.com/blueelf1988/circul-visual-scenario-library)
+项目主页：[GitHub Repository](https://github.com/blueelf1988/smart-ring-visual-scenario-library)

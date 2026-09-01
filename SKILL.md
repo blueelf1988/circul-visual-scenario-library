@@ -1,9 +1,9 @@
 ---
-name: circul-visual-scenario-library
-description: CIRCUL 超级视觉场景库生成器。将产品功能/检测指标自动映射到中产阶级生活方式场景，每个场景按「检测什么（真实功能边界）+ 画面怎么拍（欧美真人感/高级脸/质感/光线）+ 情感价值是什么（中英双语广告文案）」三要素展开，输出场景×功能映射矩阵 + Overview总表 + 完整场景分类 + TOP10超级场景推荐 + 功能边界红线 + AIGC生产指南。适用于：(1) 智能硬件/健康设备/可穿戴产品的营销视觉场景策划；(2) AIGC素材生产的场景化Prompt生成；(3) 品牌内容/广告/社媒的生活方式场景创意；(4) 产品卖点的场景化转译；(5) CIRCUL 3独立站首页/PDP/广告素材的场景库生产。当用户提到"场景库""视觉场景""生活方式场景""中产阶级场景""场景化营销""AIGC场景""超级场景""CIRCUL场景"等关键词时使用。
+name: smart-ring-visual-scenario-library
+description: Smart Ring 超级视觉场景库生成器。将产品功能/检测指标自动映射到中产阶级生活方式场景，每个场景按「检测什么（真实功能边界）+ 画面怎么拍（欧美真人感/高级脸/质感/光线）+ 情感价值是什么（中英双语广告文案）」三要素展开，输出场景×功能映射矩阵 + Overview总表 + 完整场景分类 + TOP10超级场景推荐 + 功能边界红线 + AIGC生产指南。适用于：(1) 智能硬件/健康设备/可穿戴产品的营销视觉场景策划；(2) AIGC素材生产的场景化Prompt生成；(3) 品牌内容/广告/社媒的生活方式场景创意；(4) 产品卖点的场景化转译；(5) 智能戒指独立站首页/PDP/广告素材的场景库生产。当用户提到"场景库""视觉场景""生活方式场景""中产阶级场景""场景化营销""AIGC场景""超级场景""智能戒指场景"等关键词时使用。
 ---
 
-# CIRCUL 超级视觉场景库生成器
+# Smart Ring 超级视觉场景库生成器
 
 ## 核心定位
 
@@ -97,7 +97,7 @@ description: CIRCUL 超级视觉场景库生成器。将产品功能/检测指�
 ## 参考资源
 
 - [references/scenario_taxonomy.md](references/scenario_taxonomy.md) — 10大场景分类体系 + Overview模板 + TOP10超级场景推荐方法论
-- [references/function_boundary_redlines.md](references/function_boundary_redlines.md) — CIRCUL 3功能边界审查完整版（11大功能真实边界+14处常见错误+12条生产红线+合规表述指南）
+- [references/function_boundary_redlines.md](references/function_boundary_redlines.md) — 智能戒指功能边界审查完整版（11大功能真实边界+14处常见错误+12条生产红线+合规表述指南）
 - [references/aigc_production_guide.md](references/aigc_production_guide.md) — AIGC生产指南（欧美真人感/高级脸/质感/光线/色彩/输出规格）
-- [references/scenario_examples.md](references/scenario_examples.md) — CIRCUL 3完整场景库示例（40个场景+TOP10推荐）
+- [references/scenario_examples.md](references/scenario_examples.md) — 智能戒指完整场景库示例（40个场景+TOP10推荐）
 - [demo/example-scenario-library.md](demo/example-scenario-library.md) — 完整生成流程Demo
